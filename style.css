@@ -1,0 +1,65 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image: url('subway-restaurant-20140255.jpg');
+    background-repeat: no-repeat;
+    background-size : cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}   
+
+h1 {
+    text-align: center;
+    color: darkslategray;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+    color: darkgoldenrod;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#increment-btn {
+    margin: 0 70px;
+    border-color: saddlebrown;
+    background-color: brown;
+    align-items: center;
+    color: white;
+    width: 170px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    margin-bottom: 5px;
+}
+
+#save-btn {
+    border-color: black;
+    margin: 5px 70px;
+    width: 170px;
+    background-color: salmon;
+    border-radius: 5px;
+    padding: 10px;
+    color: whitesmoke;
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
+
+p {
+    font-weight: bolder;
+    margin: 50px;
+    text-align: center;
+    color:aliceblue;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
